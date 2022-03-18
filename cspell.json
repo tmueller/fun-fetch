@@ -2,11 +2,15 @@
     "version": "0.2",
     "language": "en",
     "words": [
+        "bimap",
         "eqeqeq",
         "esbuild",
         "hyrious",
         "importsort",
-        "riteway"
+        "Monoid",
+        "riteway",
+        "Taskified",
+        "taskify"
     ],
     "flagWords": []
 }
