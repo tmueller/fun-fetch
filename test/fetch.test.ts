@@ -1,3 +1,5 @@
+import "cross-fetch/polyfill";
+
 import { describe } from "riteway";
 import { funFetch } from "../src/index";
 
